@@ -1,0 +1,12 @@
+person:
+  name: 小刘
+  age: 24
+  birth: 2019/12/12
+  boss: false
+  maps: {liuyang: champon,you: me}
+  lists:
+    - 12
+    - dsfs
+  dog:
+    name: xiaotianquan
+    age: 2
